@@ -1,0 +1,8 @@
+openpyxl==3.1.2
+pytest==7.4.2
+requests==2.31.0
+calendar
+os
+warnings
+unittest.mock
+json
